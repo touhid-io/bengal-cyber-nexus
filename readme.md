@@ -38,7 +38,7 @@ A futuristic, modular UI framework built with Vite + React, purposefully enginee
 
 
 
-!\[Screenshot](./public/screenshots/screenshots-1.png)
+!\[Screenshot](/public/screenshots/screenshots-1.png)
 
 
 
